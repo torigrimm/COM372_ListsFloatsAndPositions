@@ -1,0 +1,38 @@
+Answers lists:
+1. The exercise list circles go from solid to open circles
+2. Nothing changes
+3. The bullets turn to solid black squares
+4. There are now no bullet points
+5. Nothing changes
+6. The content has moved closer to the margin
+7. The list item moves over to the right further away from the margin then it was before
+8. The content has moved back to where it was against the margin in in step 6
+
+1. There is a dashed black border around each list item
+2. There is more space between the content and border
+3. The width of the border no longer reaches from one margin to the next it ends at the length of the content
+4. There is a complete border around each list item in a column
+5. The list items are now side by side in a row instead of column
+6. list is now back in a column
+7. Each list has the same size border shown in a row again and the 5th list item is bumped to the next line
+
+Answers Floats:
+1. The boxes move side by side and are aligned on the right hand side of the margin
+2. The boxes switch places and are now aligned on the left side of the margin
+3. The boxes switch places again and div 1 is aligned against the right margin and div2 is aligned on the left
+4. Not sure how to do this one
+5. 2%
+6. The boxes enlarge with browser
+7. Can't figure this one out!! why won't my 3rd box show up?! :(
+
+Answers Position:
+1. I can't notice a difference
+2. The box moves over to the right
+3. The box moves over to the left and some of the content is cut off
+4. The box moves down to the bottom of the margin and is cut off half way
+5. Stays in the same position but moves to the right
+6. Removed top and left properties -- back to normal
+7. All content is shown in the box is shown but the bottom is very close to the bottom margin
+8. nothing happens?
+9. The box is cut off half way on the left margin
+10. nothing happens? 
